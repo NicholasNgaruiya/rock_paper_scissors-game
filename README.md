@@ -1,1 +1,1 @@
-# persistent_rps
+# rock_paper_scissors-game
